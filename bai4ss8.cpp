@@ -5,7 +5,7 @@ int main() {
 
     printf("Nhap so phan tu cua mang (toi da 100): ");
     scanf("%d", &n);
-\
+    
     if (n <= 0 || n > 100) {
         printf("So phan tu khong hop le!\n");
         return 1;
@@ -35,3 +35,4 @@ int main() {
 
     return 0;
 }
+
