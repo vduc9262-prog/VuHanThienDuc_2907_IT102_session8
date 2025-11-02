@@ -19,7 +19,7 @@ int main() {
             if (arr[i] % 2 == 0) {
                 printf("  -> Loi: Ban nhap so chan! Vui long nhap lai so le.\n");
             }
-        } while (arr[i] % 2 == 0); // L?p l?i n?u là s? ch?n
+        } while (arr[i] % 2 == 0);
     }
 
     printf("\nMang da nhap (chi chua so le):\n");
@@ -30,3 +30,4 @@ int main() {
 
     return 0;
 }
+
