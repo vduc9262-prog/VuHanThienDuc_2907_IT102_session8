@@ -10,9 +10,9 @@ int main() {
     printf("\n");
 
     for(i = 0; i < 5; i++) {
-        if(arr[i] % 2 == 1) {        // S? l?
+        if(arr[i] % 2 == 1) {
             arr[i] = arr[i] + 2;
-        } else {                     // S? ch?n
+        } else { 
             arr[i] = arr[i] + 3;
         }
     }
@@ -25,3 +25,4 @@ int main() {
 
     return 0;
 }
+
