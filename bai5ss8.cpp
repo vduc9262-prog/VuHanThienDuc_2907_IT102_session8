@@ -3,7 +3,6 @@ int main() {
 
     int arr[5] = {67 , 74, 92 , 12, 93};
     
-    // Gán giá tr? ğ?u tiên làm max và min
     int max = arr[0];
     int min = arr[0];
 
@@ -21,3 +20,4 @@ int main() {
     
     return 0;
 }
+
